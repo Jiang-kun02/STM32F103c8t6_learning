@@ -1,0 +1,19 @@
+"D:\study_software\CLion\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/study_software/CLion/CLion 2024.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\data\github_data\STM_std_hal\GPIO_hal\STM32_HAL_Void -B D:\data\github_data\STM_std_hal\GPIO_hal\STM32_HAL_Void\cmake-build-debug
+-- The C compiler identification is GNU 10.3.1
+-- The CXX compiler identification is GNU 10.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: D:/study_software/STM32CubeMX/gcc-arm-none-eabi/bin/arm-none-eabi-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/study_software/STM32CubeMX/gcc-arm-none-eabi/bin/arm-none-eabi-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/study_software/STM32CubeMX/gcc-arm-none-eabi/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Minimal optimization, debug info included
+-- Configuring done (7.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/data/github_data/STM_std_hal/GPIO_hal/STM32_HAL_Void/cmake-build-debug

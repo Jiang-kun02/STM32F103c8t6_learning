@@ -1,0 +1,3 @@
+D:/data/github_data/STM_std_hal/GPIO_hal/STM32_HAL_GPIO/cmake-build-debug/CMakeFiles/STM32_HAL_Void.elf.dir
+D:/data/github_data/STM_std_hal/GPIO_hal/STM32_HAL_GPIO/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data/github_data/STM_std_hal/GPIO_hal/STM32_HAL_GPIO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
