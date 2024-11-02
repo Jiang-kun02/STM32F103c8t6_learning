@@ -9,7 +9,6 @@ https://blog.csdn.net/qq_55958175/category_12815940.html
 ```
 GPIO_hal里面是HAL库写的代码  
 GPIO_std里面是标准库写的代码  
+
 里面都有一个叫做void的空项目，项目仅仅配置了两颗晶振和SWD下载端口，做其他工程时可以自己复制使用。  
 ```
-
-
